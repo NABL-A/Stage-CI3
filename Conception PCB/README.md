@@ -1,1 +1,1 @@
-﻿Vous trouverez ici les fichiers découlant de la conception de la PCB. Les fichiers d'intérêt sont le fichier en _sch pour la schématique électronique et en _pcb pour le routage et modélisation 3D de la carte.
+﻿Vous trouverez ici les fichiers découlant de la conception de la PCB. Les fichiers d'intérêt sont le fichier en _sch pour la schématique électronique et le fichier en _pcb pour le routage et la modélisation 3D de la cart
